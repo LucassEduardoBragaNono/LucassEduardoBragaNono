@@ -1,4 +1,4 @@
-# Olá! 👋
+# Opa, bem vindo! 
 
 Meu nome é Lucas e sou um desenvolvedor de software apaixonado por criar soluções criativas e eficientes para problemas complexos. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades de programação.
 
