@@ -29,6 +29,8 @@ Aqui estão algumas das linguagens com as quais tenho experiência:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Cmder](https://img.shields.io/badge/Cmder-1E1E1E?style=for-the-badge&logo=cmder&logoColor=white)
+![SQLyog](https://img.shields.io/badge/SQLyog-000000?style=for-the-badge&logo=sql&logoColor=white)
 
 
 
