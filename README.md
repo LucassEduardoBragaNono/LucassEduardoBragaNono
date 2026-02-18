@@ -1,11 +1,11 @@
 # Opa, bem vindo! 
 
-Meu nome é Lucas e sou um desenvolvedor de software apaixonado por criar soluções criativas e eficientes para problemas complexos. Estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades de programação.
+Meu nome é Lucas e sou um desenvolvedor de software, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades de programação.
 
 ## Sobre Mim
 
-- 🎓 Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC.
-- Tenho 18 anos, moro em Dois Córregos, gosto de games e de programação.
+- Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC.
+- Tenho 20 anos e moro em Dois Córregos.
 
 ## Linguagens
 
