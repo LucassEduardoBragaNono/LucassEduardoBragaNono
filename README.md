@@ -1,42 +1,42 @@
-# Opa, bem vindo! 
 
-Meu nome é Lucas e sou um desenvolvedor de software, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades de programação.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=035389&size=30&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;Frontend+%7C+Backend+%7C+Multiplataforma;" />
+</p>
 
-## Sobre Mim
+Meu nome é Lucas tenho 20 anos e sou um desenvolvedor de software, estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades de programação, cursando Desenvolvimento de Software Multiplataforma na FATEC.
+<br>
+<br>
+Atualmente focado em desenvolvimento backend com .NET, estudando Java e IA.
+<br>
+<br>
 
-- Atualmente cursando Desenvolvimento de Software Multiplataforma na FATEC.
-- Tenho 20 anos e moro em Dois Córregos.
+Linguagens:
 
-## Linguagens
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,py)](https://skillicons.dev)
 
-Aqui estão algumas das linguagens com as quais tenho experiência:
+Banco de Dados:
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-2396F3?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)](https://skillicons.dev)
 
+Frameworks:
 
+[![My Skills](https://skillicons.dev/icons?i=react,dotnet,vuejs)](https://skillicons.dev)
 
-## Ferramentas
-![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)&nbsp;
-![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![MicrosoftOfice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Cmder](https://img.shields.io/badge/Cmder-1E1E1E?style=for-the-badge&logo=cmder&logoColor=white)
-![SQLyog](https://img.shields.io/badge/SQLyog-000000?style=for-the-badge&logo=sql&logoColor=white)
+DevOps e Ferramentas:
 
+[![My Skills](https://skillicons.dev/icons?i=docker,git,postman)](https://skillicons.dev)
 
+<br>
+<br>
+<br>
 
-## Contato
-
-- 📧 E-mail: lucasnono1823@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/lucas-nono-44b6282b5/
-
-
+<p align="center">
+  <a href="mailto:lucasnono1823@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/lucasnono/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=header" />
